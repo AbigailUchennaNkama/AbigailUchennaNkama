@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+[![MasterHead](https://repository-images.githubusercontent.com/265904235/46eef600-9bab-11ea-87d9-ff5e73c39b97)
 <h1 align="center">Hi 👋, I'm Abigail</h1>
 <h3 align="center">A data enthusiast. Passionate about unlocking insights from complex datasets.</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif?cid=ecf05e470i9ffxyk9084mup1ddzum39dno6dxkfeg4ja1y3x&rid=giphy.gif&ct=g">
