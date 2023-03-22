@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abigailuchennankama&label=Profile%20views&color=0e75b6&style=flat" alt="abigailuchennankama" /> </p>
 
-- 🔭 I’m currently working on **Superstore Sales Analysis & Data Visualization-Real world dataset**
-
 - 🌱 I’m currently learning **Machine learning and AI foundations.**
 
 - 💬 Ask me about *Data cleaning and preprocessing methods 
