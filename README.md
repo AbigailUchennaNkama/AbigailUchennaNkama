@@ -13,7 +13,7 @@
 - Tools such as Jupyter Notebook, Tableau, and Pandas
 - Machine and deep learning algorithms and techniques
 
-📫 Reach me per email
+📫 Reach me via email
 **nkamaabigail1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
