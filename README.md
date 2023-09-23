@@ -5,12 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abigailuchennankama&label=Profile%20views&color=0e75b6&style=flat" alt="abigailuchennankama" /> </p>
 
-- 💬 Ask me about *Data cleaning and preprocessing methods 
-*Statistical analysis and modeling 
-*Data visualization and communication of insights 
-*Programming languages such as Python, and SQL 
-*Tools such as Jupyter Notebook, Tableau, and Pandas 
-*Machine learning algorithms and techniques
+💬 Ask me about:
+- Data cleaning and preprocessing methods
+- Statistical analysis and modeling
+- Data visualization and communication of insights
+- Programming languages such as Python, and SQL
+- Tools such as Jupyter Notebook, Tableau, and Pandas
+- Machine learning algorithms and techniques
 
 - 📫 How to reach me **nkamaabigail1@gmail.com**
 
